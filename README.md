@@ -55,7 +55,7 @@ Clone the repository and start trading in seconds.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/dimyaz-trade.git
+git clone https://github.com/naidrahiqa/dimyaz-trade.git
 
 # 2. Enter directory
 cd dimyaz-trade
@@ -86,5 +86,5 @@ We welcome degens and quants alike. Feel free to submit a Pull Request to improv
 ---
 
 <p align="center">
-  Built with ❤️ by <b>Dimyaz Team</b>
+  Built with ❤️ by <b>Naidrahiqa</b>
 </p>
