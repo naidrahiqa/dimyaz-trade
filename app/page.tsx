@@ -91,6 +91,7 @@ export default function Home() {
               symbol={displaySymbol}
               price={marketData?.current_price || 0}
               change24h={marketData?.price_change_percentage_24h || 0}
+              sparkline={marketData?.sparkline_in_7d?.price || []}
             />
             <NewsFeed news={news} />
           </div>
